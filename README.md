@@ -199,12 +199,6 @@ I chose **Wazuh Server integration using the Splunk Forwarder**.
 
 ---
 
-<a id="step-5-testing"></a>
-## Step 5: Testing
-*(Testing in progress...)*
-
----
-
 <a id="future-upgrades"></a>
 ## Future Upgrades/Plans
 1. Set up a virtualized pfSense server to isolate the SOC-Homelab from my home network.  
@@ -222,6 +216,6 @@ I chose **Wazuh Server integration using the Splunk Forwarder**.
 
 <a id="conclusion"></a>
 ## Conclusion
-Building this homelab was a valuable learning experience with many unexpected variables. It provided a deep understanding of security infrastructure, like virtualization, networking, and the Linux CLI. While my initial goal was to gain practical skills for a SOC Analyst role, I also gained insight into the security architecutre requried to build a SOC. This homelab will now serve as platform for me to continuously practice Blue and Red team workflows, providing invaluable experience for my cybersecurity career. 
+Building this homelab was a valuable learning experience with many unexpected variables. It provided a deep understanding of security infrastructure including virtualization, networking, and the Linux CLI. While my initial goal was to gain practical skills for a SOC Analyst role, I also gained insight into the security architecutre requried to build a SOC. This homelab will now serve as platform for me to continuously practice Blue and Red team workflows, providing invaluable experience for my cybersecurity career. 
 
 <a href="#top">Back to top</a>
