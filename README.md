@@ -15,9 +15,8 @@
    - [3.2 Sysmon](#sysmon)  
    - [3.3 Suricata](#suricata)  
 6. [Step 4: Configuring Splunk](#step-4-configuring-splunk)  
-7. [Step 5: Testing](#step-5-testing)  
-8. [Future Topology Upgrades/Plans](#future-upgrades)
-10. [Conclusion](#conclusion)  
+7. [Future Topology Upgrades/Plans](#future-upgrades)
+8. [Conclusion](#conclusion)  
 
 ---
 
